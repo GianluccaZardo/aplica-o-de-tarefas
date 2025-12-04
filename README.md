@@ -15,14 +15,14 @@ Este projeto foi feito para estudo e prática de React sem usar bundlers ou Crea
 
 ## Funcionalidades
 
-✔ Adicionar tarefas  
-✔ Listar tarefas  
-✔ Editar tarefas  
-✔ Excluir tarefas  
-✔ Dados salvos no localStorage  
-✔ Navegação entre páginas com React Router  
-✔ Estado global com Context API  
-✔ Totalmente funcional no Live Server  
+ Adicionar tarefas  
+ Listar tarefas  
+ Editar tarefas  
+ Excluir tarefas  
+ Dados salvos no localStorage  
+ Navegação entre páginas com React Router  
+ Estado global com Context API  
+ Totalmente funcional no Live Server  
 
 ---
 
